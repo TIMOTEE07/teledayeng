@@ -1,0 +1,17 @@
+{
+  "name": "teleday",
+  "version": "1.0.0",
+  "description": "DiscordBot",
+  "main": "index.js",
+  "engines": { "node": "8.15.1"},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "TurnBass&oOTeamCocOo",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.4.2"
+  }
+}
